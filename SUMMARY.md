@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Правила работы в системе](README.md)
-* [сайт площадки](http://onlinecontract.ru)
 * [Политика в отношении обработки персональных данных](politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
 * [Соглашение о присоединении к Правилам работы в Системе](soglashenie-o-prisoedinenii-k-pravilam-raboty-v-sisteme.md)
 
@@ -20,4 +19,5 @@
 
 * [доверенность](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha.md)
 * [Письмо о возвращении обеспечительного платежа](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha-1.md)
+* [сайт площадки](http://onlinecontract.ru)
 
