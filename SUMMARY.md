@@ -19,5 +19,4 @@
 
 * [доверенность](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha.md)
 * [Письмо о возвращении обеспечительного платежа](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha-1.md)
-* [сайт площадки](http://onlinecontract.ru)
 
