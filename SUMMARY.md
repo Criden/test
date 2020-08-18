@@ -15,15 +15,26 @@
 
 ## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
 
+* [Доверенность](birzhevye-produkty/doverennost.md)
+* [Письмо о возвращении ОП](birzhevye-produkty/pismo-o-vozvrashenii-op.md)
+* [Пробная статистика БП](birzhevye-produkty/probnaya-statistika-bp.md)
+* [Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-sektora-bp.md)
+* [Руководство пользователя по новому интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp.md)
+
 ## Сектор Реализация имущества \(РАИ\) <a id="realizaciya-imushestva"></a>
 
-* [доверенность](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha.md)
+* [Доверенность](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha.md)
 * [Письмо о возвращении обеспечительного платежа](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha-1.md)
-* [сайт площадки](http://onlinecontract.ru)
 
 ## Аккредитация для участия в закупках по 223-ФЗ <a id="akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz"></a>
 
 * [Руководство пользователя по подаче заявления на аккредитацию](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
 * [Перечень документов для аккредитации](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/perechen-dokumentov-dlya-akkreditacii.md)
 * [Подготовка рабочего места для использования ЭП](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/podgotovka-rabochego-mesta-dlya-ispolzovaniya-ep.md)
+
+## ОБЩАЯ ИНФОРМАЦИЯ
+
+---
+
+* [сайт ЭТП](http://onlinecontract.ru/)
 

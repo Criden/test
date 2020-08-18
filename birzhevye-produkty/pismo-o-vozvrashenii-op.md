@@ -4,7 +4,7 @@ description: >-
   обеспечительного платежа (ОП), используемого для участия в торгах
 ---
 
-# Письмо о возвращении обеспечительного платежа
+# Письмо о возвращении ОП
 
-{% file src="../.gitbook/assets/pismo-o-vozvrashenii-obespechitelnogo-platezha-3-.doc" caption="образец письма о возвращении ОП" %}
+{% file src="../.gitbook/assets/pismo-o-vozvrashenii-obespechitelnogo-platezha-v-sektore-bp \(1\).doc" caption="образец письма о возврате ОП" %}
 
