@@ -8,8 +8,8 @@
 
 * [Доверенность для работы на ЭТП](korporativnye-zakupki/test.md)
 * [Доверенность аналитика по участникам](korporativnye-zakupki/doverennost-analitika-po-uchastnikam.md)
-* [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennost-analitika-po-uchastnikam-uk.md)
 * [Доверенность на просмотр](korporativnye-zakupki/doverennost-na-prosmotr.md)
+* [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennost-analitika-po-uchastnikam-uk.md)
 * [Таблица для автоматического заполнения заявки](korporativnye-zakupki/tablica-dlya-avtomaticheskogo-zapolneniya-zayavki.md)
 
 ## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
