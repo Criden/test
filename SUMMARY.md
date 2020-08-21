@@ -9,16 +9,16 @@
 * [Доверенность для работы на ЭТП](korporativnye-zakupki/test.md)
 * [Доверенность аналитика по участникам](korporativnye-zakupki/doverennost-analitika-po-uchastnikam.md)
 * [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennost-analitika-po-uchastnikam-uk.md)
-* [Таблица для автоматического заполнения заявки](korporativnye-zakupki/tablica-dlya-avtomaticheskogo-zapolneniya-zayavki.md)
 * [Доверенность на просмотр](korporativnye-zakupki/doverennost-na-prosmotr.md)
+* [Таблица для автоматического заполнения заявки](korporativnye-zakupki/tablica-dlya-avtomaticheskogo-zapolneniya-zayavki.md)
 
 ## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
 
+* [Руководство пользователя по новому интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp.md)
+* [Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-sektora-bp.md)
 * [Доверенность](birzhevye-produkty/doverennost.md)
 * [Письмо о возвращении ОП](birzhevye-produkty/pismo-o-vozvrashenii-op.md)
 * [Пробная статистика БП](birzhevye-produkty/probnaya-statistika-bp.md)
-* [Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-sektora-bp.md)
-* [Руководство пользователя по новому интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp.md)
 
 ## Сектор Реализация имущества \(РАИ\) <a id="realizaciya-imushestva"></a>
 
