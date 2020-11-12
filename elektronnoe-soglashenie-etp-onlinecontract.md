@@ -57,3 +57,5 @@ description: >-
 
 15. Во всем остальном, что не предусмотрено настоящим соглашением, стороны будут руководствоваться действующим законодательством РФ.
 
+{% file src=".gitbook/assets/polzovatelskoe-soglashenie-etp-onlinecontract.pdf" caption="Пользовательское соглашение" %}
+
