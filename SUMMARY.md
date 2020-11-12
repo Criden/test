@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Правила работы в Cистеме](README.md)
-* [Электронное соглашение ЭТП ONLINECONTRACT](elektronnoe-soglashenie-etp-onlinecontract.md)
+* [Пользовательское соглашение ЭТП ONLINECONTRACT](elektronnoe-soglashenie-etp-onlinecontract.md)
 * [Политика в отношении обработки персональных данных](politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
 * [Соглашение о присоединении к Правилам работы в Системе](soglashenie-o-prisoedinenii-k-pravilam-raboty-v-sisteme.md)
 
