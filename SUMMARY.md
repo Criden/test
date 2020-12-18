@@ -18,6 +18,8 @@
 
 * [Руководство пользователя по новому интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp.md)
 * [Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-sektora-bp.md)
+* [Руководство пользователя по подаче заявления на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
+* [Руководство пользователя по проверке заявлений на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya-po-proverke-zayavlenii-na-akkreditaciyu.md)
 * [Доверенность](birzhevye-produkty/doverennost.md)
 * [Письмо о возвращении ОП](birzhevye-produkty/pismo-o-vozvrashenii-op.md)
 * [Пробная статистика БП](birzhevye-produkty/probnaya-statistika-bp.md)
