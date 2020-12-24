@@ -66,5 +66,5 @@ description: >-
 
 
 
-{% file src=".gitbook/assets/polzovatelskoe-soglashenie-etp-onlinecontract \(1\).pdf" caption="Пользовательское соглашение" %}
+{% file src="../.gitbook/assets/polzovatelskoe-soglashenie-etp-onlinecontract \(1\).pdf" caption="Пользовательское соглашение" %}
 

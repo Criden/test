@@ -495,5 +495,5 @@ description: >-
 
 7.8.       Ответственность за сбор и передачу Обществу ПДн в отношении третьих лиц \(собственных работников\) несет Пользователь / Посетитель.
 
-{% file src=".gitbook/assets/politika-v-otnoshenii-obrabotki-pdn-etp-onlinecontract.pdf" caption="политика в отношении обработки персональных данных в редакции 2" %}
+{% file src="../.gitbook/assets/politika-v-otnoshenii-obrabotki-pdn-etp-onlinecontract.pdf" caption="политика в отношении обработки персональных данных в редакции 2" %}
 

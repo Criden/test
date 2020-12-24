@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Правила работы в Cистеме в редакции от 18.12.2020г.](README.md)
-* [Пользовательское соглашение ЭТП ONLINECONTRACT](elektronnoe-soglashenie-etp-onlinecontract.md)
-* [Политика в отношении обработки персональных данных](politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
-* [Соглашение о присоединении к Правилам работы в Системе](soglashenie-o-prisoedinenii-k-pravilam-raboty-v-sisteme.md)
+* [Общие документы ЭТП](obshie-dokumenty-etp/README.md)
+  * [Пользовательское соглашение ЭТП ONLINECONTRACT](obshie-dokumenty-etp/elektronnoe-soglashenie-etp-onlinecontract.md)
+  * [Политика в отношении обработки персональных данных](obshie-dokumenty-etp/politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
+  * [Соглашение о присоединении к Правилам работы в Системе](obshie-dokumenty-etp/soglashenie-o-prisoedinenii-k-pravilam-raboty-v-sisteme.md)
 
 ## Сектор Корпоративные закупки \(КЗ\) <a id="korporativnye-zakupki"></a>
 
