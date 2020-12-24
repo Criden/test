@@ -6,5 +6,5 @@ description: >-
 
 # Доверенность аналитика по участникам-УК
 
-{% file src="../.gitbook/assets/doverennost-analitika-po-uchastnikam-uk-1-.docx" caption="форма доверенности \"Аналита по участника УК\"" %}
+{% file src="../../.gitbook/assets/doverennost-analitika-po-uchastnikam-uk-1-.docx" caption="форма доверенности \"Аналита по участника УК\"" %}
 

@@ -6,5 +6,5 @@ description: >-
 
 # Доверенность на просмотр
 
-{% file src="../.gitbook/assets/doverennost-na-prosmotr-1-.docx" caption="форма доверенности на просмотр" %}
+{% file src="../../.gitbook/assets/doverennost-na-prosmotr-1-.docx" caption="форма доверенности на просмотр" %}
 

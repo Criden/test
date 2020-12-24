@@ -6,7 +6,7 @@ description: >-
 
 # Доверенность аналитика по участникам
 
-{% file src="../.gitbook/assets/doverennost-analitika-po-uchastnikam-1-.docx" caption="форма доверенность \"Аналитика по участникам\"" %}
+{% file src="../../.gitbook/assets/doverennost-analitika-po-uchastnikam-1-.docx" caption="форма доверенность \"Аналитика по участникам\"" %}
 
 
 

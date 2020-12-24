@@ -7,10 +7,11 @@
 
 ## Сектор Корпоративные закупки \(КЗ\) <a id="korporativnye-zakupki"></a>
 
-* [Доверенность для работы на ЭТП](korporativnye-zakupki/test.md)
-* [Доверенность аналитика по участникам](korporativnye-zakupki/doverennost-analitika-po-uchastnikam.md)
-* [Доверенность на просмотр](korporativnye-zakupki/doverennost-na-prosmotr.md)
-* [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennost-analitika-po-uchastnikam-uk.md)
+* [Доверенности](korporativnye-zakupki/doverennosti/README.md)
+  * [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennosti/doverennost-analitika-po-uchastnikam-uk.md)
+  * [Доверенность на просмотр](korporativnye-zakupki/doverennosti/doverennost-na-prosmotr.md)
+  * [Доверенность аналитика по участникам](korporativnye-zakupki/doverennosti/doverennost-analitika-po-uchastnikam.md)
+  * [Доверенность для работы на ЭТП](korporativnye-zakupki/doverennosti/test.md)
 * [Таблица для автоматического заполнения заявки](korporativnye-zakupki/tablica-dlya-avtomaticheskogo-zapolneniya-zayavki.md)
 
 ## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
