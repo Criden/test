@@ -15,13 +15,15 @@
 
 ## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
 
-* [Руководство пользователя по новому интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp.md)
-* [Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya-sektora-bp.md)
-* [Руководство пользователя по подаче заявления на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
-* [Руководство пользователя по проверке заявлений на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya-po-proverke-zayavlenii-na-akkreditaciyu.md)
-* [Доверенность](birzhevye-produkty/doverennost.md)
-* [Письмо о возвращении ОП](birzhevye-produkty/pismo-o-vozvrashenii-op.md)
-* [Пробная статистика БП](birzhevye-produkty/probnaya-statistika-bp.md)
+* [Руководство пользователя](birzhevye-produkty/rukovodstvo-polzovatelya/README.md)
+  * [1. Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya/rukovodstvo-polzovatelya-sektora-bp.md)
+  * [2. Руководство пользователя по интерфейсу сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya/rukovodstvo-polzovatelya-po-novomu-interfeisu-sektora-bp-1.md)
+  * [3. Руководство пользователя по подаче заявления на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
+  * [4. Руководство пользователя по проверке заявлений на аккредитацию](birzhevye-produkty/rukovodstvo-polzovatelya/rukovodstvo-polzovatelya-po-proverke-zayavlenii-na-akkreditaciyu.md)
+* [Шаблоны документов](birzhevye-produkty/shablony-dokumentov/README.md)
+  * [Доверенность](birzhevye-produkty/shablony-dokumentov/doverennost.md)
+  * [Письмо о возвращении ОП](birzhevye-produkty/shablony-dokumentov/pismo-o-vozvrashenii-op.md)
+  * [Пробная статистика БП](birzhevye-produkty/shablony-dokumentov/probnaya-statistika-bp.md)
 
 ## Сектор Реализация имущества \(РАИ\) <a id="realizaciya-imushestva"></a>
 
