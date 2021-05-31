@@ -7,5 +7,5 @@ description: >-
 
 # 4. Руководство пользователя по проверке заявлений на аккредитацию НКНХ
 
-{% file src="../../.gitbook/assets/rukovodstvo-polzovatelya\_proverka-zayavlenii-na-akkreditaciyu-v-sektore-birzhevye-produkty \(1\).pdf" caption="РП\_проверка заявлений на вккредитацию в PDF" %}
+{% file src="../../.gitbook/assets/rp-proverka-zayavlenii-na-akkreditaciyu-zakazchik-.pdf" caption="Руководство по проверке заявлений на аккредитацию в секторе Биржевые продукты для заказчиков" %}
 

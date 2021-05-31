@@ -7,5 +7,5 @@ description: >-
 
 # 3. Руководство пользователя по подаче заявления на аккредитацию НКНХ
 
-{% file src="../../.gitbook/assets/rukovodstvo-polzovatelya-\_podacha-zayavleniya-na-akkreditaciyu-v-sektore-birzhevye-produkty \(1\).pdf" caption="РП\_подача заявления на аккредитацию в PDF" %}
+{% file src="../../.gitbook/assets/rp-podacha-zayavleniya-na-akkreditaciyu-uchastnik- \(1\).pdf" caption="Руководство по подаче заявления на аккредитацию в секторе Биржевые продукты для участников" %}
 
