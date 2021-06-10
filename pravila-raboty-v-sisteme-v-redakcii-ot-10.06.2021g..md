@@ -6,7 +6,7 @@ description: >-
 
 # Правила работы в Системе в редакции от 10.06.2021г.
 
-{% file src=".gitbook/assets/pravila-raboty-v-sisteme-onlinecontract-v-red.ot-10.06.2021g..pdf" %}
+{% file src=".gitbook/assets/pravila-raboty-v-sisteme-onlinecontract-v-red.ot-10.06.2021g..pdf" caption="Правила работы с Системе в редакции от 10.06.2021г." %}
 
 
 
