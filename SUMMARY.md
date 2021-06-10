@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Правила работы в Cистеме в редакции от 18.12.2020г.](README.md)
+* [Правила работы в Системе в редакции от 10.06.2021г.](pravila-raboty-v-sisteme-v-redakcii-ot-10.06.2021g..md)
 * [Общие документы ЭТП](obshie-dokumenty-etp/README.md)
   * [Пользовательское соглашение ЭТП ONLINECONTRACT](obshie-dokumenty-etp/elektronnoe-soglashenie-etp-onlinecontract.md)
   * [Политика в отношении обработки персональных данных](obshie-dokumenty-etp/politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
