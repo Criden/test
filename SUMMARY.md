@@ -8,6 +8,9 @@
 
 ## Сектор Корпоративные закупки \(КЗ\) <a id="korporativnye-zakupki"></a>
 
+* [Документация заказчиков](korporativnye-zakupki/dokumentaciya-zakazchikov/README.md)
+  * [АНО «НИЦ ДНК"](korporativnye-zakupki/dokumentaciya-zakazchikov/ano-nic-dnk.md)
+  * [ПАО "Нижнекамскнефтехим"](korporativnye-zakupki/dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
 * [Доверенности](korporativnye-zakupki/doverennosti/README.md)
   * [Доверенность аналитика по участникам-УК](korporativnye-zakupki/doverennosti/doverennost-analitika-po-uchastnikam-uk.md)
   * [Доверенность на просмотр](korporativnye-zakupki/doverennosti/doverennost-na-prosmotr.md)
@@ -37,11 +40,6 @@
 * [Руководство пользователя по подаче заявления на аккредитацию](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
 * [Перечень документов для аккредитации](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/perechen-dokumentov-dlya-akkreditacii.md)
 * [Подготовка рабочего места для использования ЭП](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/podgotovka-rabochego-mesta-dlya-ispolzovaniya-ep.md)
-
-## Документация заказчиков
-
-* [АНО «НИЦ ДНК](dokumentaciya-zakazchikov/ano-nic-dnk.md)
-* [ПАО "Нижнекамскнефтехим"](dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
 
 ## ОБЩАЯ ИНФОРМАЦИЯ
 
