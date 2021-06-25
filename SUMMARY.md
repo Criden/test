@@ -38,6 +38,11 @@
 * [Перечень документов для аккредитации](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/perechen-dokumentov-dlya-akkreditacii.md)
 * [Подготовка рабочего места для использования ЭП](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/podgotovka-rabochego-mesta-dlya-ispolzovaniya-ep.md)
 
+## Документация заказчиков
+
+* [АНО «НИЦ ДНК](dokumentaciya-zakazchikov/ano-nic-dnk.md)
+* [ПАО "Нижнекамскнефтехим"](dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
+
 ## ОБЩАЯ ИНФОРМАЦИЯ
 
 ---
