@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Правила работы в Cистеме в редакции от 10.06.2021г.](README.md)
+* [Правила работы в Cистеме в редакции от 03.09.2021г.](README.md)
 * [Правила работы в Cистеме в редакции от 03.09.2021г.](pravila-raboty-v-cisteme-v-redakcii-ot-03.09.2021g..md)
 * [Общие документы ЭТП](obshie-dokumenty-etp/README.md)
   * [Пользовательское соглашение ЭТП ONLINECONTRACT](obshie-dokumenty-etp/elektronnoe-soglashenie-etp-onlinecontract.md)
