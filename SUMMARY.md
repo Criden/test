@@ -6,8 +6,9 @@
   * [Политика в отношении обработки персональных данных](obshie-dokumenty-etp/politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
   * [Соглашение о присоединении к Правилам работы в Системе](obshie-dokumenty-etp/soglashenie-o-prisoedinenii-k-pravilam-raboty-v-sisteme.md)
 
-## Сектор Корпоративные закупки \(КЗ\) <a id="korporativnye-zakupki"></a>
+## Сектор Корпоративные закупки (КЗ) <a href="#korporativnye-zakupki" id="korporativnye-zakupki"></a>
 
+* [Руководство пользователя](korporativnye-zakupki/rukovodstvo-polzovatelya.md)
 * [Документация заказчиков](korporativnye-zakupki/dokumentaciya-zakazchikov/README.md)
   * [АНО «НИЦ ДНК"](korporativnye-zakupki/dokumentaciya-zakazchikov/ano-nic-dnk.md)
   * [ПАО "Нижнекамскнефтехим"](korporativnye-zakupki/dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
@@ -18,7 +19,7 @@
   * [Доверенность для работы на ЭТП](korporativnye-zakupki/doverennosti/test.md)
 * [Таблица для автоматического заполнения заявки](korporativnye-zakupki/tablica-dlya-avtomaticheskogo-zapolneniya-zayavki.md)
 
-## Сектор Биржевые продукты \(БП\) <a id="birzhevye-produkty"></a>
+## Сектор Биржевые продукты (БП) <a href="#birzhevye-produkty" id="birzhevye-produkty"></a>
 
 * [Руководство пользователя](birzhevye-produkty/rukovodstvo-polzovatelya/README.md)
   * [1. Руководство пользователя сектора БП](birzhevye-produkty/rukovodstvo-polzovatelya/rukovodstvo-polzovatelya-sektora-bp.md)
@@ -30,12 +31,12 @@
   * [Письмо о возвращении ОП](birzhevye-produkty/shablony-dokumentov/pismo-o-vozvrashenii-op.md)
   * [Пробная статистика Биржевые продукты](birzhevye-produkty/shablony-dokumentov/probnaya-statistika-bp.md)
 
-## Сектор Реализация имущества \(РАИ\) <a id="realizaciya-imushestva"></a>
+## Сектор Реализация имущества (РАИ) <a href="#realizaciya-imushestva" id="realizaciya-imushestva"></a>
 
 * [Доверенность](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha.md)
 * [Письмо о возвращении обеспечительного платежа](realizaciya-imushestva/pismo-o-vozvrashenii-obespechitelnogo-platezha-1.md)
 
-## Аккредитация для участия в закупках по 223-ФЗ <a id="akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz"></a>
+## Аккредитация для участия в закупках по 223-ФЗ <a href="#akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz" id="akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz"></a>
 
 * [Руководство пользователя по подаче заявления на аккредитацию](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/rukovodstvo-polzovatelya-po-podache-zayavleniya-na-akkreditaciyu.md)
 * [Перечень документов для аккредитации](akkreditaciya-dlya-uchastiya-v-zakupkaz-po-223-fz/perechen-dokumentov-dlya-akkreditacii.md)
@@ -43,7 +44,6 @@
 
 ## ОБЩАЯ ИНФОРМАЦИЯ
 
----
+***
 
-* [сайт ЭТП](http://onlinecontract.ru/)
-
+* [сайт ЭТП](http://onlinecontract.ru)
