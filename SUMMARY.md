@@ -12,6 +12,8 @@
   * [Работа с Переторжкой для заказчиков и участников](korporativnye-zakupki/rukovodstvo-polzovatelya/rabota-s-peretorzhkoi-dlya-zakazchikov-i-uchastnikov.md)
   * [Для заказчика «Конкурентный лист», «Запрос предложений», «Сопоставление коммерческих предложений»](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-zakazchika-konkurentnyi-list-zapros-predlozhenii-sopostavlenie-kommercheskikh-predlozhenii.md)
   * [Для участника «Конкурентный лист», «Запрос предложений», «Сопоставление коммерческих предложений»](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-uchastnika-konkurentnyi-list-zapros-predlozhenii-sopostavlenie-kommercheskikh-predlozhenii.md)
+  * [Проведение процедуры типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/provedenie-procedury-tipa-monitoring-cen.md)
+  * [Участие в процедуре типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/uchastie-v-procedure-tipa-monitoring-cen.md)
 * [Документация заказчиков](korporativnye-zakupki/dokumentaciya-zakazchikov/README.md)
   * [АНО «НИЦ ДНК"](korporativnye-zakupki/dokumentaciya-zakazchikov/ano-nic-dnk.md)
   * [ПАО "Нижнекамскнефтехим"](korporativnye-zakupki/dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
