@@ -15,6 +15,7 @@
   * [Проведение процедуры типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/provedenie-procedury-tipa-monitoring-cen.md)
   * [Участие в процедуре типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/uchastie-v-procedure-tipa-monitoring-cen/README.md)
     * [РП по самостоятельной работе заказчика в секторе "Корпоративные закупки"](korporativnye-zakupki/rukovodstvo-polzovatelya/uchastie-v-procedure-tipa-monitoring-cen/rp-po-samostoyatelnoi-rabote-zakazchika-v-sektore-korporativnye-zakupki.md)
+  * [Руководство по самостоятельной работе заказчика в секторе "Корпоративные закупки"](korporativnye-zakupki/rukovodstvo-polzovatelya/rukovodstvo-po-samostoyatelnoi-rabote-zakazchika-v-sektore-korporativnye-zakupki.md)
 * [Документация заказчиков](korporativnye-zakupki/dokumentaciya-zakazchikov/README.md)
   * [АНО «НИЦ ДНК"](korporativnye-zakupki/dokumentaciya-zakazchikov/ano-nic-dnk.md)
   * [ПАО "Нижнекамскнефтехим"](korporativnye-zakupki/dokumentaciya-zakazchikov/pao-nizhnekamskneftekhim.md)
