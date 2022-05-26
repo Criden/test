@@ -53,4 +53,4 @@
 
 ***
 
-* [сайт ЭТП](http://onlinecontract.ru)
+* [сайт ЭТП](http://onlinecontract.ru/)
