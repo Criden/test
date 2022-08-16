@@ -10,8 +10,8 @@
 
 * [Руководство пользователя](korporativnye-zakupki/rukovodstvo-polzovatelya/README.md)
   * [Работа с Переторжкой для заказчиков и участников](korporativnye-zakupki/rukovodstvo-polzovatelya/rabota-s-peretorzhkoi-dlya-zakazchikov-i-uchastnikov.md)
-  * [Для заказчика КЛ, ЗП, СКП с переторжкой](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-zakazchika-kl-zp-skp-s-peretorzhkoi.md)
-  * [Для участника «Конкурентный лист», «Запрос предложений», «Сопоставление коммерческих предложений»](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-uchastnika-konkurentnyi-list-zapros-predlozhenii-sopostavlenie-kommercheskikh-predlozhenii.md)
+  * [Для заказчика КЛ, ЗП, СКП с переторжкой](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-zakazchika-konkurentnyi-list-zapros-predlozhenii-sopostavlenie-kommercheskikh-predlozhenii.md)
+  * [Для участника КЛ, ЗП, СКП с переторжкой](korporativnye-zakupki/rukovodstvo-polzovatelya/dlya-uchastnika-kl-zp-skp-s-peretorzhkoi.md)
   * [Проведение процедуры типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/provedenie-procedury-tipa-monitoring-cen.md)
   * [Участие в процедуре типа "Мониторинг цен"](korporativnye-zakupki/rukovodstvo-polzovatelya/uchastie-v-procedure-tipa-monitoring-cen/README.md)
     * [РП по самостоятельной работе заказчика в секторе "Корпоративные закупки"](korporativnye-zakupki/rukovodstvo-polzovatelya/uchastie-v-procedure-tipa-monitoring-cen/rp-po-samostoyatelnoi-rabote-zakazchika-v-sektore-korporativnye-zakupki.md)
