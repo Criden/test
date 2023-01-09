@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Правила работы в Системе в редакции от 01.04.2022г.](README.md)
-* [Правила работы в Системе в редакции от 29.12.2022г.](pravila-raboty-v-sisteme-v-redakcii-ot-29.12.2022g..md)
+* [Правила работы в Системе в редакции от 29.12.2022г.](README.md)
 * [Общие документы ЭТП](obshie-dokumenty-etp/README.md)
   * [Пользовательское соглашение ЭТП ONLINECONTRACT](obshie-dokumenty-etp/elektronnoe-soglashenie-etp-onlinecontract.md)
   * [Политика в отношении обработки персональных данных](obshie-dokumenty-etp/politika-v-otnoshenii-obrabotki-personalnykh-dannykh.md)
